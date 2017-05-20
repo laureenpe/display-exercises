@@ -3,7 +3,12 @@
  }
  /*Index uno*/
  
- .laboratoria {
+ .laboratoria-1 {
+     margin-left: 20px;
+     margin-right: 20px;
+ }
+ 
+ .laboratoria-1 p {
      background-color: yellow;
      color: black;
      font-weight: bold;
@@ -11,7 +16,15 @@
      padding: 20px;
  }
  
- .laboratoria-es {
+ .laboratoria-1 .yellow {
+     background-color: yellow;
+     margin-top: -16px;
+     font-weight: bold;
+     height: 64px;
+     padding: 20px;
+ }
+ 
+ .laboratoria-1 .fucsia {
      background-color: fuchsia;
      border: 1px black solid;
      margin-top: -16px;
@@ -19,17 +32,9 @@
      height: 64px;
      padding: 20px;
  }
- 
- .laboratoria-transforma {
-     background-color: yellow;
-     margin-top: -16px;
-     font-weight: bold;
-     height: 64px;
-     padding: 20px;
- }
  /*index dos*/
  
- .laboratoria-index-dos {
+ .laboratoria-2 p {
      background-color: yellow;
      color: black;
      font-weight: bold;
@@ -39,9 +44,8 @@
      display: block;
  }
  
- .laboratoria-es-index-dos {
-     background-color: fuchsia;
-     border: 1px black solid;
+ .laboratoria-2 .yellow {
+     background-color: yellow;
      margin-top: -16px;
      font-weight: bold;
      height: 64px;
@@ -50,12 +54,77 @@
      display: block;
  }
  
- .laboratoria-transforma-index-dos {
-     background-color: yellow;
+ .laboratoria-2 .fucsia {
+     background-color: fuchsia;
      margin-top: -16px;
      font-weight: bold;
      height: 64px;
      padding: 20px;
      margin: 18px 247px 0px 148px;
      display: block;
+ }
+ /*index tres*/
+ 
+ .laboratoria-3 {
+     margin-left: 20px;
+ }
+ 
+ .laboratoria-3 p {
+     display: inline-block;
+     height: 30px;
+     padding-left: 20px;
+     padding-right: 20px;
+     padding-top: 10px;
+ }
+ 
+ .laboratoria-3 .yellow {
+     background-color: yellow;
+ }
+ 
+ .laboratoria-3 .fucsia {
+     background-color: fuchsia;
+ }
+ /*Index 4*/
+ 
+ .laboratoria-4 {
+     margin-left: 20px;
+ }
+ 
+ .laboratoria-4 p {
+     display: inline-block;
+     height: 55px;
+     padding-left: 140px;
+     padding-right: 20px;
+     padding-top: 10px;
+     text-align: left;
+ }
+ 
+ .laboratoria-4 .yellow {
+     background-color: yellow;
+ }
+ 
+ .laboratoria-4 .fucsia {
+     background-color: fuchsia;
+ }
+ /*Index 5*/
+ 
+ .laboratoria-5 {
+     margin-left: 20px;
+ }
+ 
+ .laboratoria-5 p {
+     display: inline-block;
+     height: 55px;
+     padding-left: 140px;
+     padding-right: 20px;
+     padding-top: 10px;
+     text-align: left;
+ }
+ 
+ .laboratoria-5 .yellow {
+     background-color: yellow;
+ }
+ 
+ .laboratoria-5 .fucsia {
+     background-color: fuchsia;
  }
