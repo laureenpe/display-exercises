@@ -35,7 +35,8 @@
      font-weight: bold;
      height: 64px;
      padding: 20px;
-     margin: 148px
+     margin: 148px 247px -24px 148px;
+     display: block;
  }
  
  .laboratoria-es-index-dos {
@@ -45,7 +46,8 @@
      font-weight: bold;
      height: 64px;
      padding: 20px;
-     margin: 148px
+     margin: 35px 247px 0px 148px;
+     display: block;
  }
  
  .laboratoria-transforma-index-dos {
@@ -54,5 +56,6 @@
      font-weight: bold;
      height: 64px;
      padding: 20px;
-     margin: 148px
+     margin: 18px 247px 0px 148px;
+     display: block;
  }
