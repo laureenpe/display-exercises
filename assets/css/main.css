@@ -1,0 +1,58 @@
+ body {
+     margin: 0px;
+ }
+ /*Index uno*/
+ 
+ .laboratoria {
+     background-color: yellow;
+     color: black;
+     font-weight: bold;
+     height: 64px;
+     padding: 20px;
+ }
+ 
+ .laboratoria-es {
+     background-color: fuchsia;
+     border: 1px black solid;
+     margin-top: -16px;
+     font-weight: bold;
+     height: 64px;
+     padding: 20px;
+ }
+ 
+ .laboratoria-transforma {
+     background-color: yellow;
+     margin-top: -16px;
+     font-weight: bold;
+     height: 64px;
+     padding: 20px;
+ }
+ /*index dos*/
+ 
+ .laboratoria-index-dos {
+     background-color: yellow;
+     color: black;
+     font-weight: bold;
+     height: 64px;
+     padding: 20px;
+     margin: 148px
+ }
+ 
+ .laboratoria-es-index-dos {
+     background-color: fuchsia;
+     border: 1px black solid;
+     margin-top: -16px;
+     font-weight: bold;
+     height: 64px;
+     padding: 20px;
+     margin: 148px
+ }
+ 
+ .laboratoria-transforma-index-dos {
+     background-color: yellow;
+     margin-top: -16px;
+     font-weight: bold;
+     height: 64px;
+     padding: 20px;
+     margin: 148px
+ }
